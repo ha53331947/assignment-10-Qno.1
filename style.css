@@ -1,0 +1,144 @@
+@font-face {
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+}
+h1{
+    color :blue;
+}
+.class1{
+    margin-left: 400px;
+    border: 1px solid  white;
+    border-radius: 50px;
+    width: 328px;
+    height: 450px;
+    background-color: white;
+}
+.class1 p1{
+    margin-left: 100px;
+    padding-left: 10px;    
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: light;
+
+}
+.class1 pre1{
+    margin-left: 25px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class1 pre2{
+    margin-left: 38px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class1 pre3{
+    margin-left: 58px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class2{
+    margin-left: 800px;
+    border: 1px solid white;
+    border-radius: 50px;
+    width: 328px;
+    height: 450px;
+    background-color: white;
+    margin-top: -450px;
+}
+.class2 p1{
+    margin-left: 100px;
+    padding-left: 10px;    
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: light;
+
+}
+.class2 pre1{
+    margin-left: 25px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class2 pre2{
+    margin-left: 38px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class2 pre3{
+    margin-left: 58px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class3{
+    margin-left: 1200px;
+    border: 1px solid white;
+    border-radius: 50px;
+    width: 328px;
+    height: 450px;
+    background-color: white;
+    margin-top: -482px;
+}
+.class3 p1{
+    margin-left: 100px;
+    padding-left: 10px;    
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: light;
+
+}
+.class3 pre1{
+    margin-left: 25px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class3 pre2{
+    margin-left: 38px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+.class3 pre3{
+    margin-left: 58px;
+    padding-left: 10px;
+     font-family: "haris";
+    src: url("Roboto_Condensed-Thin.ttf");
+    font-size: 19px;
+    
+}
+h2{
+    margin-left: 450px;
+    background-color: blue;
+    color: white;
+    width: 1000px;
+    font-size: 50px;
+    height: 80px;font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: light;
+  text-align: center;
+}
